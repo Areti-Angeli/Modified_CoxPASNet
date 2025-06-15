@@ -5,11 +5,15 @@
 <p align="center">
   Explainable pathway-aware sparse neural network for survival analysis
   <br />
-  <strong>Deep learning for interpretable prognosis modeling using SHAP + Optuna</strong>
+  <strong>Deep learning for interpretable prognosis modeling using SHAP + Automated hyperparameter tuning</strong>
 </p>
 
 
 ## Project Overview
+
+<p align="center">
+  <img src="./data/workflow.png" alt="CoxPASNet Architecture" width="600"/>
+</p>
 
 Survival analysis plays a crucial role in biomedical research and clinical decision-making. In oncology, it helps estimate patient survival probabilities and predict disease progression. Traditional statistical models like the Cox Proportional Hazards (CoxPH) model, although widely used, assume linear relationships and struggle to integrate high-throughput genomic and clinical data — limiting their real-world applicability.
 
