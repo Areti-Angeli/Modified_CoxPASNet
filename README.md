@@ -11,10 +11,6 @@
 
 ## Project Overview
 
-<p align="center">
-  <img src="./data/workflow.png" alt="CoxPASNet Architecture" width="600"/>
-</p>
-
 Survival analysis plays a crucial role in biomedical research and clinical decision-making. In oncology, it helps estimate patient survival probabilities and predict disease progression. Traditional statistical models like the Cox Proportional Hazards (CoxPH) model, although widely used, assume linear relationships and struggle to integrate high-throughput genomic and clinical data — limiting their real-world applicability.
 
 Recent advances in machine learning (ML) and deep learning (DL) have transformed survival analysis by enabling models to capture complex non-linear interactions and incorporate high-dimensional datasets. Despite this progress, challenges remain in hyperparameter tuning, overfitting control, and model interpretability.
