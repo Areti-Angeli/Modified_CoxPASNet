@@ -35,7 +35,7 @@ pip install shap==0.42.0 optuna==4.2.0 matplotlib gseapy
 --- 
 
 ---
-## Files Overview
+<!-- Files Overview -->
 
 ### Model Scripts (`./`)
 - **empirical_surv_status_coxpasnet.py** – trains Cox‑PASNet on *survival‑status only* with empirical hyper‑parameters.
